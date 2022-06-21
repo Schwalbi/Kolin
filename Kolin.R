@@ -1,3 +1,7 @@
+# Analysis code for Schwalb et al. 2022
+# Distributed under CC BY 4.0 license: https://creativecommons.org/licenses/by/4.0/
+
+# Packages
 library(ggplot2)
 library(reshape2)
 library(patchwork)
